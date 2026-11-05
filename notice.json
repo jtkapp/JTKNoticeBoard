@@ -9,10 +9,10 @@
       "until": "BS 2083-07-25"
     },
     {
-      "enabled": false,
-      "title": "तस्बिरसहितको सूचना",
-      "text": "तस्बिर अपलोड गरेपछि enabled लाई true गर्नुहोस्।",
-      "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/poster.jpg"
+      "enabled": true,
+      "title": "🙏नमस्कार🙏",
+      "text": "तिहारको साईत सम्बन्धमा",
+      "image": "https://raw.githubusercontent.com/jtkapp/JTKNoticeBoard/main/FB_IMG_1793861133417.jpg"
     },
     {
       "enabled": false,
