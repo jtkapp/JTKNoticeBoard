@@ -1,8 +1,10 @@
 {
-  "enabled": false,
+  "enabled": true,
   "items": [
     {
-      "title": "🙏 नमस्कार",
+      "enabled": false,
+      
+      "title": "🙏 नमस्कार 🙏",
       "text": "यो वर्षको तिहारको साईत।",
       "image": "",
       "from": "BS 2083-07-19",
@@ -19,12 +21,14 @@
     },
     {
       "enabled": false,
+      
       "title": "फारम / सूचना PDF",
       "text": "PDF अपलोड गरेपछि enabled लाई true गर्नुहोस्।",
       "pdf": "https://raw.githubusercontent.com/USERNAME/REPO/main/form.pdf"
     },
     {
       "enabled": false,
+      
       "title": "सबै एकैसाथ",
       "text": "text + तस्बिर + PDF + लिङ्क।",
       "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/poster.jpg",
