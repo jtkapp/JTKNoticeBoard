@@ -1,18 +1,21 @@
 {
-  "enabled": true,
+  "enabled": false,
   "items": [
     {
       "title": "🙏 नमस्कार",
       "text": "यो वर्षको तिहारको साईत।",
-      "image": "https://raw.githubusercontent.com/jtkapp/JTKNoticeBoard/main/FB_IMG_1793861133417.jpg",
+      "image": "",
       "from": "BS 2083-07-19",
       "until": "BS 2083-07-25"
     },
     {
       "enabled": true,
+    
       "title": "🙏नमस्कार🙏",
-      "text": "तिहारको साईत सम्बन्धमा",
-      "image": "https://raw.githubusercontent.com/jtkapp/JTKNoticeBoard/main/FB_IMG_1793861133417.jpg"
+      "text": "यो वर्षको तिहारको साईत।",
+      "image": "https://raw.githubusercontent.com/jtkapp/JTKNoticeBoard/main/FB_IMG_1793861133417.jpg",
+      "from": "BS 2083-07-19",
+      "until": "BS 2083-07-25"
     },
     {
       "enabled": false,
