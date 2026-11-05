@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "items": [
+    {
+      "title": "🙏 नमस्कार",
+      "text": "सूचना बक्स सफलतापूर्वक चलिरहेको छ।",
+      "from": "BS 2083-07-19",
+      "until": "BS 2083-08-30"
+    },
+    {
+      "enabled": false,
+      "title": "तस्बिरसहितको सूचना",
+      "text": "तस्बिर अपलोड गरेपछि enabled लाई true गर्नुहोस्।",
+      "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/poster.jpg"
+    },
+    {
+      "enabled": false,
+      "title": "फारम / सूचना PDF",
+      "text": "PDF अपलोड गरेपछि enabled लाई true गर्नुहोस्।",
+      "pdf": "https://raw.githubusercontent.com/USERNAME/REPO/main/form.pdf"
+    },
+    {
+      "enabled": false,
+      "title": "सबै एकैसाथ",
+      "text": "text + तस्बिर + PDF + लिङ्क।",
+      "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/poster.jpg",
+      "pdf": "https://raw.githubusercontent.com/USERNAME/REPO/main/form.pdf",
+      "link": "https://example.com",
+      "from": "BS 2083-07-19",
+      "until": "BS 2083-08-30"
+    }
+  ]
+}
