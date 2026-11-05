@@ -20,6 +20,24 @@
       "until": "BS 2083-07-25"
     },
     {
+      "enabled": true,
+    
+      "title": "अन्तर्राष्ट्रिय पञ्चाङ्ग निर्णय समिति",
+      "text": "विभिन्न देशका लागि भाईटिकाको साईत",
+      "image": "https://raw.githubusercontent.com/jtkapp/JTKNoticeBoard/main/FB_IMG_1793861133417.jpg",
+      "from": "BS 2083-07-19",
+      "until": "BS 2083-07-25"
+    },
+    {
+      "enabled": false,
+    
+      "title": "🙏नमस्कार🙏",
+      "text": "यो वर्षको तिहारको साईत।",
+      "image": "https://raw.githubusercontent.com/jtkapp/JTKNoticeBoard/main/FB_IMG_1793861133417.jpg",
+      "from": "BS 2083-07-19",
+      "until": "BS 2083-07-25"
+    },
+    {
       "enabled": false,
       
       "title": "फारम / सूचना PDF",
